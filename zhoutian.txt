@@ -1,8 +1,9 @@
 GIT文档
 http://www.liaoxuefeng.com/
 
-// add content on master
 
+// add content on master
+// use branch dev to add content
 
 
 //add content on dev1
